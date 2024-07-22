@@ -27,8 +27,8 @@ An eCommerce webstore designed specifically for visually impaired users, built u
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/accessible-ecommerce-webstore.git
-    cd accessible-ecommerce-webstore
+    git clone https://github.com/cutewizzy11/ecommerce_app.git
+    cd ecommerce_app
     ```
 
 2. **Backend Setup:**
@@ -121,7 +121,7 @@ We welcome contributions to improve this project! To contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
@@ -130,4 +130,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please contact cutewizzy11(mailto:).
+For questions or suggestions, please contact cutewizzy11(mailto:neutralgig@gmail.com).
